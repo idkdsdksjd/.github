@@ -2,7 +2,7 @@
   <img src="logo.png" alt="Diffusion-Group logo" width="130">
 </p>
 
-<h1 align="center">Diffusion-Group</h1>
+<h1 align="center">Diffuse-Group</h1>
 
 <p align="center">
   Practical Stable Diffusion tooling for the hardware you already own —<br>
